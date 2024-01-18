@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![covid ssss](https://github.com/Sejalvala0126/Fetch-API-Covid-Data/assets/142477514/b9fdf587-d22d-4daa-a133-745025ca316f)
 
 ## Available Scripts
 
